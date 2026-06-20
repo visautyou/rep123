@@ -26,3 +26,5 @@ PING vk.ru (93.186.225.194) 56(84) bytes of data.
 --- vk.ru ping statistics ---
 2 packets transmitted, 2 received, 0% packet loss, time 1742ms
 rtt min/avg/max/mdev = 104.545/104.984/105.424/0.439 ms
+
+hello
