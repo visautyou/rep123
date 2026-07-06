@@ -1,30 +1,28 @@
 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
-64 bytes from 1.1.1.1: icmp_seq=1 ttl=56 time=98.1 ms
-64 bytes from 1.1.1.1: icmp_seq=2 ttl=56 time=97.9 ms
+64 bytes from 1.1.1.1: icmp_seq=1 ttl=64 time=0.258 ms
+64 bytes from 1.1.1.1: icmp_seq=2 ttl=64 time=0.174 ms
 
 --- 1.1.1.1 ping statistics ---
-2 packets transmitted, 2 received, 0% packet loss, time 1056ms
-rtt min/avg/max/mdev = 97.931/97.995/98.060/0.064 ms
+2 packets transmitted, 2 received, 0% packet loss, time 1025ms
+rtt min/avg/max/mdev = 0.174/0.216/0.258/0.042 ms
 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
-64 bytes from 8.8.8.8: icmp_seq=1 ttl=104 time=115 ms
-64 bytes from 8.8.8.8: icmp_seq=2 ttl=104 time=115 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=64 time=0.143 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=64 time=0.116 ms
 
 --- 8.8.8.8 ping statistics ---
-2 packets transmitted, 2 received, 0% packet loss, time 1055ms
-rtt min/avg/max/mdev = 115.205/115.294/115.384/0.089 ms
+2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+rtt min/avg/max/mdev = 0.116/0.129/0.143/0.013 ms
 PING ya.ru (77.88.44.242) 56(84) bytes of data.
-64 bytes from ya.ru (77.88.44.242): icmp_seq=1 ttl=53 time=101 ms
-64 bytes from ya.ru (77.88.44.242): icmp_seq=2 ttl=53 time=100 ms
+64 bytes from 77.88.44.242: icmp_seq=1 ttl=64 time=0.159 ms
+64 bytes from 77.88.44.242: icmp_seq=2 ttl=64 time=0.079 ms
 
 --- ya.ru ping statistics ---
-2 packets transmitted, 2 received, 0% packet loss, time 1049ms
-rtt min/avg/max/mdev = 100.061/100.747/101.433/0.686 ms
-PING vk.ru (93.186.225.194) 56(84) bytes of data.
-64 bytes from 93.186.225.194: icmp_seq=1 ttl=52 time=105 ms
-64 bytes from 93.186.225.194: icmp_seq=2 ttl=52 time=105 ms
+2 packets transmitted, 2 received, 0% packet loss, time 10010ms
+rtt min/avg/max/mdev = 0.079/0.119/0.159/0.040 ms
+PING vk.ru (87.240.132.72) 56(84) bytes of data.
+64 bytes from srv72-132-240-87.vk.com (87.240.132.72): icmp_seq=1 ttl=64 time=0.207 ms
+64 bytes from srv72-132-240-87.vk.com (87.240.132.72): icmp_seq=2 ttl=64 time=0.157 ms
 
 --- vk.ru ping statistics ---
-2 packets transmitted, 2 received, 0% packet loss, time 1742ms
-rtt min/avg/max/mdev = 104.545/104.984/105.424/0.439 ms
-
-hello
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 0.157/0.182/0.207/0.025 ms
